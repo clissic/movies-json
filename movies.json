@@ -6,7 +6,8 @@
         "banner": "https://m.media-amazon.com/images/S/pv-target-images/6d3d1461d50778271845ce7ec81ba2c5d76a20f7f84e5061cd099aabaedc77f9.jpg",
         "background": "https://media.revistagq.com/photos/6423f83c4f05a2723d59efbe/16:9/w_1920,c_limit/john-wick-4-final-alternativo.jpeg",
         "trailer": "https://www.youtube.com/watch?v=qEVUtrk8_B4&pp=ygUTdHJhaWxlciBqb2huIHdpY2sgNA%3D%3D",
-        "featured": true
+        "featured": true,
+        "language": "Español"
     },
     {
         "name": "Dune: Parte Dos",
@@ -15,7 +16,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BZjNhNzM3MjgtYTAyMC00NDVmLWFjYWUtNGUzOTg4YTI0MDFlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_FMjpg_UX683_.jpg",
         "background": "https://www.mundiario.com/asset/thumbnail,1280,720,center,center/media/mundiario/images/2024/02/28/2024022818401818248.jpg",
         "trailer": "https://www.youtube.com/watch?v=esezQhsrix0&pp=ygUGZHVuZSAy",
-        "featured": true
+        "featured": true,
+        "language": "Español"
     },
     {
         "name": "El caballero de la noche",
@@ -24,7 +26,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BNzg3YjExZTktOTk3ZS00ODQ1LTg1M2QtMzk2NzQ3NjQxOWUwXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_FMjpg_UX1260_.jpg",
         "background": "https://sm.ign.com/t/ign_latam/screenshot/default/christian-bale-batman_3mf1.1280.jpg",
         "trailer": "https://www.youtube.com/watch?v=dzQtWkpc2-c&pp=ygUnYmF0bWFuIGVsIGNhYmFsbGVybyBkZSBsYSBub2NoZSB0cmFpbGVy",
-        "featured": true
+        "featured": true,
+        "language": "Español"
     },
     {
         "name": "El Padrino",
@@ -33,7 +36,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BY2ZiNzM3MWMtNmQzMy00MzU4LWFjNTUtOWFhN2M1NThkNjQ2XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_FMjpg_UX800_.jpg",
         "background": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/05/18/vito-RiAuKMmd1KsTpy0mxLwyahM-1200x840@abc.jpg",
         "trailer": "https://www.youtube.com/watch?v=iOyQx7MXaz0&pp=ygUSZWwgcGFkcmlubyB0cmFpbGVy",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     },
     {
         "name": "El retorno del rey",
@@ -42,7 +46,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BMGI3ODM0NTktZDcwMy00OWMzLWI5OGUtOTUzZTM1MzllOWQ1XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_FMjpg_UX837_.jpg",
         "background": "https://cartelera.elpais.com/assets/uploads/2019/12/06030128/F_08976.jpg",
         "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo&pp=ygUaZWwgcmV0b3JubyBkZWwgcmV5IHRyYWlsZXI%3D",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     },
     {
         "name": "Volver al futuro",
@@ -51,7 +56,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BYjQxMTIyMWUtMmMyMS00MGNmLTkzNzktOTM2YzMyZmRjYTYzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UY2000_.jpg",
         "background": "https://www.eluniversal.com.mx/resizer/GwaRCYrtazZ7nDF9WVIw1TjW3KQ=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/P7R6WR36G5F3LDUIRWAPPHVCFE.png",
         "trailer": "https://www.youtube.com/watch?v=GM6_MHRc4Xo&pp=ygUYdm9sdmVyIGFsIGZ1dHVybyB0cmFpbGVy",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     },
     {
         "name": "Django sin cadenas",
@@ -60,7 +66,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BMTg5NzI5ODU0MV5BMl5BanBnXkFtZTcwNDcyNDY2Nw@@._V1_FMjpg_UX600_.jpg",
         "background": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcNqveb3vCACT6ZtAWIZ2m1hgzhOSeciVGrex_4c1EJig2GJMxPiUtDuBpyD3iYGme9NejS8VQu4fxdIBMyCtVmUwASRwVQ4lXti.jpg?r=38e",
         "trailer": "https://www.youtube.com/watch?v=CLofzNkIqAc&pp=ygUaZGphbmdvIHNpbiBjYWRlbmFzIHRyYWlsZXI%3D",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     },
     {
         "name": "El resplandor",
@@ -69,7 +76,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BM2M0NTNhNGMtMmVlMS00MDRjLWI5MzctYmVlNzdhMTQ0ZDE1XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX960_.jpg",
         "background": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/14/5fa585c9ae1b1.jpeg",
         "trailer": "https://www.youtube.com/watch?v=IiSjPcRWjYA&pp=ygUVZWwgcmVzcGxhbmRvciB0cmFpbGVy",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     },
     {
         "name": "Coco",
@@ -78,7 +86,8 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BNTY1MzkyODUtNDA0ZS00YTM1LWFjZDEtNTliMmZhNjdmYTFmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1050_.jpg",
         "background": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/11/coco.jpg?tf=1200x",
         "trailer": "https://www.youtube.com/watch?v=awzWdtCezDo&pp=ygUMY29jbyB0cmFpbGVy",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     },
     {
         "name": "Guasón",
@@ -87,6 +96,7 @@
         "banner": "https://m.media-amazon.com/images/M/MV5BYzQ5NzA5MDItNzBlYi00YTY5LWJjMTgtYjc4YjlhNzNjNTE0XkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_FMjpg_UY2880_.jpg",
         "background": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/10/hipertextual-joaquin-phoenix-no-cierra-puertas-secuela-joker-2019942978-scaled.jpg?resize=1200%2C675&quality=55&strip=all&ssl=1",
         "trailer": "https://www.youtube.com/watch?v=ZMH8NWf9btw&pp=ygUNam9rZXIgdHJhaWxlcg%3D%3D",
-        "featured": false
+        "featured": false,
+        "language": "Español"
     }
 ]
